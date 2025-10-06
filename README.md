@@ -5,9 +5,9 @@
 ### 本固件源码基于openwrt-snapshots修改，云编译项目。
    本仓库为Wikjxwrt的github云编译库，与一键编译脚本所产出固件一致。
    
-   官方源码仓库 - [OpenWrt-24.10](https://github.com/openwrt/openwrt/tree/openwrt)
+   官方源码仓库 - [OpenWrt](https://github.com/openwrt/openwrt/tree/openwrt)
    
-   本固件源码仓库 - [OpenWrt-24.10](https://github.com/wixxm/OpenWrt-snapshots)
+   本固件源码仓库 - [OpenWrt-snapshots](https://github.com/wixxm/OpenWrt-snapshots)
 
 #### 固件下载地址
    - [Github](https://github.com/wixxm/wikjxwrt-snapshots/releases)
